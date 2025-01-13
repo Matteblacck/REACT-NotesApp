@@ -1,8 +1,5 @@
 # React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://matteblacck.github.io/REACT-NotesApp/
+Notes app using react and vite. 
+Primarily for widescreen devices, but there is also an adaptation for mobile devices (at the time of writing, it is a bit unfinished).
+Implemented functions: editing, selecting notes, creating new notes, switching between them, adding a title.
